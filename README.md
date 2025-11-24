@@ -10,7 +10,7 @@ This repository contains data, analysis, and materials for the paper **"Voices o
 - **Focus:** Use cases, usage patterns, experience in non-English languages, cultural representation, AI impact and ethical issues
 
 ## 🗂 **Repository Contents**
-```data/:``` Annonymized survey data
-```analysis/:``` TBA: Code and notebooks for data analysis
-```survey/:``` Survey documentation
-```docs/:``` TBA: Supplementary materials like slides or posters
+- ```data/:``` Annonymized survey data
+- ```analysis/:``` TBA: Code and notebooks for data analysis
+- ```survey/:``` Survey documentation
+- ```docs/:``` TBA: Supplementary materials like slides or posters
